@@ -1,4 +1,4 @@
-1. Scaling app to a Million users 
+1. Scaling app to a Million usersr
 
 Problem Statement - Build a system that supports a single user and gradually scale it up to serve millions of users.
 
@@ -55,3 +55,4 @@ Considerations:
 
 -- Content Delivery Network (CDN)
 
+something something
